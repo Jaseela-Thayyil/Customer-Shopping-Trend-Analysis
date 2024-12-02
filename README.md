@@ -48,5 +48,7 @@ This analysis aims to answer the following questions:
 An integrated view of demographics, discount impacts, seasonal trends, and top-performing categories.
 ![image](https://github.com/user-attachments/assets/098c7ea8-3dec-48d9-be72-fa8640d864fa)
 
+![image](https://github.com/user-attachments/assets/93c385ad-adb9-4818-981e-b17bd425b25a)
+
  An integrated view of demographics, discount impacts, seasonal trends, and top-performing categories.
 
