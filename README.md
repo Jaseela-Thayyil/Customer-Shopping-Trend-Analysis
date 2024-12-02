@@ -40,5 +40,5 @@ This analysis aims to answer the following questions:
    Showcasing revenue, gender-wise spending, and seasonal sales. 
    ![image](https://github.com/user-attachments/assets/1b079477-4008-4db9-a525-c1febb8114f1)
 
-![screenshot of application](6ed5cbd52d36eb11a37112575fa29f5175d79ef3)
+
 
