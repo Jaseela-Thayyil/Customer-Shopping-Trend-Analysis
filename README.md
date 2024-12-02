@@ -45,5 +45,8 @@ This analysis aims to answer the following questions:
    ![image](https://github.com/user-attachments/assets/a088e4fb-77c5-4671-a9d6-f89d887c4ad0)
 #### Power BI Dashboards:
 ##### Customer Spend Trends Analysis:
+An integrated view of demographics, discount impacts, seasonal trends, and top-performing categories.
+![image](https://github.com/user-attachments/assets/098c7ea8-3dec-48d9-be72-fa8640d864fa)
+
  An integrated view of demographics, discount impacts, seasonal trends, and top-performing categories.
 
