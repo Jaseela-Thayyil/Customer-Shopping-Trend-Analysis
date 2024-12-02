@@ -39,5 +39,5 @@ This analysis aims to answer the following questions:
    ###### Customer Shopping Trends Dashboard:    
    Showcasing revenue, gender-wise spending, and seasonal sales. 
    
-![screenshot of application](6ed5cbd52d36eb11a37112575fa29f5175d79ef3)
+![screenshot of application](
 
