@@ -40,17 +40,20 @@ This analysis aims to answer the following questions:
    Showcasing revenue, gender-wise spending, and seasonal sales. 
    
    ![image](https://github.com/user-attachments/assets/1b079477-4008-4db9-a525-c1febb8114f1)
-<a href="https://github.com/Jaseela-Thayyil/Customer-Shopping-Trend-Analysis/blob/main/cuistomer%20spend%20trends%20project.xlsx">View-Dasboard<as/>
+
    #####  Demographics and Product Performance Dashboard:
    Focusing on age groups, loyalty analysis, and product popularity.
+   
    ![image](https://github.com/user-attachments/assets/a088e4fb-77c5-4671-a9d6-f89d887c4ad0)
    
+   <a href="https://github.com/Jaseela-Thayyil/Customer-Shopping-Trend-Analysis/blob/main/cuistomer%20spend%20trends%20project.xlsx">View-Dasboard<as/>
 #### Power BI Dashboards:
 ##### Customer Spend Trends Analysis:
 An integrated view of demographics, discount impacts, seasonal trends, and top-performing categories.
+
 ![image](https://github.com/user-attachments/assets/098c7ea8-3dec-48d9-be72-fa8640d864fa)
 
 ![image](https://github.com/user-attachments/assets/93c385ad-adb9-4818-981e-b17bd425b25a)
 
-
+<a href="
 
