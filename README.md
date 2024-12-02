@@ -57,3 +57,29 @@ An integrated view of demographics, discount impacts, seasonal trends, and top-p
 
 <a href="https://github.com/Jaseela-Thayyil/Customer-Shopping-Trend-Analysis/blob/main/customer-spend-trends.pbix">View-Dashboard<a/>
 
+# Insights
+#### 1. Revenue and Purchase Behavior:
+Total revenue generated is $233,081 with an average purchase amount of $59.76.
+
+#### 2. Demographic Trends:
+Male customers spend more compared to females.
+
+The 31–40 age group contributes significantly to revenue.
+
+#### 3. Seasonal Insights:
+Winter and Spring record higher sales across most categories.
+
+Clothing is the most popular category throughout the year.
+
+#### 4. Discount Impact:
+Purchases made with discounts slightly lower the average spend ($59.28 vs. $60.13).
+
+#### 5. Payment and Shipping Preferences:
+Credit cards and debit cards are the most preferred payment methods.
+
+Free shipping and standard delivery are the most chosen shipping options.
+
+#### 6.Customer Loyalty:
+Weekly and monthly customers exhibit higher purchase frequencies.
+# Final Conclusion
+This analysis highlights the importance of demographic targeting, seasonal promotions, and product-specific strategies for maximizing sales. Offering discounts effectively engages customers without significantly reducing revenue. Businesses can further capitalize on payment and shipping preferences to enhance customer satisfaction.
