@@ -55,5 +55,5 @@ An integrated view of demographics, discount impacts, seasonal trends, and top-p
 
 ![image](https://github.com/user-attachments/assets/93c385ad-adb9-4818-981e-b17bd425b25a)
 
-<a href="
+<a href="https://github.com/Jaseela-Thayyil/Customer-Shopping-Trend-Analysis/blob/main/customer-spend-trends.pbix">View-Dashboard<a/>
 
