@@ -36,11 +36,11 @@ This analysis aims to answer the following questions:
  9. Building custom visuals and interactive reports in Power BI.
 # Dashboards
    #### Excel Dashboards:
-   ###### Customer Shopping Trends Dashboard:    
+   ##### Customer Shopping Trends Dashboard:    
    Showcasing revenue, gender-wise spending, and seasonal sales. 
    ![image](https://github.com/user-attachments/assets/1b079477-4008-4db9-a525-c1febb8114f1)
 
-   ###### Demographics and Product Performance Dashboard:
+   #####  Demographics and Product Performance Dashboard:
    Focusing on age groups, loyalty analysis, and product popularity.
    ![image](https://github.com/user-attachments/assets/a088e4fb-77c5-4671-a9d6-f89d887c4ad0)
 
