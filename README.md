@@ -38,8 +38,9 @@ This analysis aims to answer the following questions:
    #### Excel Dashboards:
    ##### Customer Shopping Trends Dashboard:    
    Showcasing revenue, gender-wise spending, and seasonal sales. 
+   
    ![image](https://github.com/user-attachments/assets/1b079477-4008-4db9-a525-c1febb8114f1)
-
+<a href="https://github.com/Jaseela-Thayyil/Customer-Shopping-Trend-Analysis/blob/main/cuistomer%20spend%20trends%20project.xlsx">View-Dasboard<as/>
    #####  Demographics and Product Performance Dashboard:
    Focusing on age groups, loyalty analysis, and product popularity.
    ![image](https://github.com/user-attachments/assets/a088e4fb-77c5-4671-a9d6-f89d887c4ad0)
