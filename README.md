@@ -39,6 +39,6 @@ This analysis aims to answer the following questions:
    ###### Customer Shopping Trends Dashboard:    
    Showcasing revenue, gender-wise spending, and seasonal sales. 
    ![image](https://github.com/user-attachments/assets/1b079477-4008-4db9-a525-c1febb8114f1)
-
+   https://github.com/Jaseela-Thayyil/Customer-Shopping-Trend-Analysis/blob/main/excel%20Db%202.png?raw=true
 
 
