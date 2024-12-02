@@ -19,3 +19,23 @@ This analysis aims to answer the following questions:
 6. Which product categories are most popular in different seasons?
  
 7. How does customer loyalty manifest in terms of purchase frequency?
+# Process
+#### Tools Used:
+ Excel: For initial data processing and creating interactive dashboards.
+ 
+ Power BI: For advanced visualization and dynamic insights.
+#### Steps:
+ 1. Data Cleaning and Preprocessing (Excel).
+ 2. 
+ 3. Creating pivot tables and slicers for dynamic analysis (Excel).
+ 4. 
+ 5. Designing interactive dashboards in Excel to visualize key trends.
+ 6. 
+ 7. Importing data into Power BI for detailed visual analytics.
+ 8. 
+ 9. Building custom visuals and interactive reports in Power BI.
+# Dashboards
+   #### Excel Dashboards:
+   ###### Customer Shopping Trends Dashboard:    
+   Showcasing revenue, gender-wise spending, and seasonal sales.
+   ![screenshot of application](
