@@ -38,4 +38,5 @@ This analysis aims to answer the following questions:
    #### Excel Dashboards:
    ###### Customer Shopping Trends Dashboard:    
    Showcasing revenue, gender-wise spending, and seasonal sales.
+   
    ![screenshot of application](Excel db 1.png)
